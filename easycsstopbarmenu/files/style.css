@@ -1,0 +1,22 @@
+body {
+  background: #f4f4f4;
+  color: #222;
+  transition: 0.35s;
+  font-family: Consolas, arial, helvetica, sans-serif, Monospace;
+  margin-left: 4%;
+  padding-bottom: 1000px;
+} nav a{
+  text-decoration: none;
+  color: grey;
+  margin: 10%;
+  letter-spacing: 0.1rem;
+} nav {
+  position: fixed;
+  margin-left: 5%;
+} nav ul {
+  list-style: none;
+} nav li {
+  display: inline-block;
+} nav a:hover {
+  color: gainsboro;
+}
