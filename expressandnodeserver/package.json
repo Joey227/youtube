@@ -1,0 +1,26 @@
+{
+  "name": "expressandnodeserver",
+  "version": "1.0.0",
+  "description": "This is a simple node.js and express server ",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joey227/youtube.git"
+  },
+  "author": "joey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Joey227/youtube/issues"
+  },
+  "homepage": "https://github.com/Joey227/youtube#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "express-session": "^1.17.0",
+    "nodemon": "^2.0.2"
+  }
+}
